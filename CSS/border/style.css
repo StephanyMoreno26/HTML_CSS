@@ -1,0 +1,31 @@
+div {
+    background:rebeccapurple;
+    width: 150px;
+    margin:auto;
+    text-align: center;
+}
+
+div {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    /*border: hace lo que harian las 4 anteriores*/
+}
+
+div {
+    /*border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color:aquamarine;*/
+
+    border-top: 5px solid aquamarine
+}
+
+div {
+    /* border-bottom-width: 2px;
+    border-bottom-style: dashed;
+    border-bottom-color: darkgray;*/
+
+    border-bottom: 2px dashed darkgrey
+}
+
+
