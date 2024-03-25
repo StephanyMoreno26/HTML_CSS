@@ -1,0 +1,22 @@
+body {
+    background-color: #0fb;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    margin: 0;
+    background: url(https://www.google.com/search?sca_esv=f8e627ae2765b515&rlz=1C1GCEA_enCO1092CO1093&sxsrf=ACQVn0-12DX1poMy1ht4_uxKS8_OBuA3kw:1711326479682&q=fresas&tbm=isch&source=lnms&prmd=isvnmbtz&sa=X&ved=2ahUKEwis3qn3k46FAxVERTABHQh1B-oQ0pQJegQIChAB&biw=1165&bih=806&dpr=0.75#imgrc=tLI0R0mjkr5a6M) top / 
+    cover fixed #6fa
+}
+
+.opaco {
+    height: 100%;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+h2 {
+    padding: 20px;
+    text-align: center;
+}
